@@ -1,0 +1,41 @@
+h1 {
+  color: #000000;
+  text-align: center;
+  font-family: poppins, monospace, helvetica, sans-serif;
+}
+h2 {
+  color: #6256CA;
+  text-align: center;
+  font-family: poppins, monospace, helvetica, sans-serif;
+}
+
+table, th, td {
+  border: 2px solid #6256CA;
+}
+table {
+margin: 0 auto; 
+border-collapse: collapse; 
+width: 100%;
+font-family: poppins, monospace, helvetica, sans-serif;
+}
+th {  
+  padding: 20px;
+  margin: 0 auto;
+  background-color: #E5D9F2; 
+  color: black; 
+  text-transform: uppercase; 
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+td {
+  font-family: poppins, monospace, helvetica, sans-serif;
+  text-align: left;
+  font-size: 14px;
+  padding: 10px;
+}
+#tags {
+  color: #000000;
+  background-color: #FDFAD9;
+
+}
